@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumitra</h1>
 <h3 align="center">I'm a Frontend developer and data analysis Enthusiast!</h3>
 
-- 🔭 I’m currently pursuing **BE 3rd year in Information Science and Engineering!**
+- 🔭 I’m currently pursuing **BE 4th year in Information Science and Engineering!**
 
 - 🌱 I’m currently learning **The Google Data Analytics Professional Certificate course**
 
