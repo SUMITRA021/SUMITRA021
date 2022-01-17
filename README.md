@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate **with other data analysts and web developers!**
 
-- 👨‍💻 2021 Goal **Contribute to Open Source projects**
+- 👨‍💻 2022 Goal **Contribute to Open Source projects**
 
 - 📫 How to reach me- **sumitradawn021@gmail.com**
 
