@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sumitra</h1>
-<h3 align="center">I'm a Frontend developer and data analysis Enthusiast!</h3>
+<h3 align="center">I'm a Software Engineer and data analysis Enthusiast!</h3>
 
-- 🔭 I’m currently pursuing **BE 4th year in Information Science and Engineering!**
+- 🔭 I’m currently working as **Software Engineer at IBM India Pvt ltd.**
 
-- 🌱 I’m currently learning **The Google Data Analytics Professional Certificate course**
+- 🌱 I’m currently learning **ReactJs to upskill myself.**
 
 - 👯 I’m looking to collaborate **with other data analysts and web developers!**
 
-- 👨‍💻 2022 Goal **Contribute to Open Source projects**
+- 👨‍💻 2023 Goal **Contribute to Open Source projects**
 
 - 📫 How to reach me- **sumitradawn021@gmail.com**
 
