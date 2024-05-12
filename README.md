@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumitra</h1>
-<h3 align="center">I'm a Software Engineer and data analysis Enthusiast!</h3>
+<h3 align="center">I'm a Software Engineer!</h3>
 
 - 🔭 I’m currently working as **Software Engineer at IBM India Pvt ltd.**
 
